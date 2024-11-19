@@ -1,6 +1,6 @@
-# PDF2PPT: Academic Paper to Presentation Converter
+# JournalClubAssistant: Academic Paper to Presentation Converter
 
-PDF2PPT is an AI-powered tool that automatically converts academic papers (PDF) into structured PowerPoint presentations while maintaining technical accuracy and logical flow. It leverages OpenAI's GPT-4 for content analysis and generates comprehensive presentations with proper figure integration.
+JournalClubAssistant is an AI-powered tool that automatically converts academic papers (PDF) into structured PowerPoint presentations while maintaining technical accuracy and logical flow. It leverages OpenAI's GPT-4 for content analysis and generates comprehensive presentations with proper figure integration.
 
 ## Features
 
@@ -15,7 +15,7 @@ PDF2PPT is an AI-powered tool that automatically converts academic papers (PDF) 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf2ppt.git
+git clone https://github.com/yourusername/JournalClubAssistant.git
 cd pdf2ppt
 ```
 
@@ -136,9 +136,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this tool in your research, please cite:
 ```bibtex
-@software{pdf2ppt2024,
+@software{JournalClubAssistant2024,
   author = {Your Name},
-  title = {PDF2PPT: Academic Paper to Presentation Converter},
+  title = {JournalClubAssistant: Academic Paper to Presentation Converter},
   year = {2024},
   url = {https://github.com/yourusername/pdf2ppt}
 }
